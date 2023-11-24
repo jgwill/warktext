@@ -2,14 +2,11 @@
 
 ## About 
 
-WarkText is a simple, elegant, and customizable markdown editor designed with user-friendliness and distribution in mind. It's built to be straightforward and accessible, avoiding unnecessary complexity so users of all levels of technical proficiency can easily use it. 
+WarkText is a markdown editor designed with simplicity, customizability, and distribution in mind. It's built to be straightforward and accessible, allowing users of all levels to easily use it. Users can tailor the application to their specific needs, including modifying its appearance, behavior, and functionality.
 
-The application allows users to tailor its appearance, behavior, and functionality to their specific needs. It's built with a focus on distribution, making it easy to share and use by others, which makes it an ideal solution for teams and communities.
+The application uses Markdown, a lightweight and easy-to-use markup language, making it suitable for a wide range of tasks, from note-taking to writing documentation. It's designed with a focus on distribution, making it an ideal solution for teams and communities.
 
-WarkText uses Markdown, a lightweight and easy-to-use markup language, allowing users to format text in a readable and easy-to-write manner. This makes it suitable for a wide range of tasks, from note-taking to writing documentation.
-
-One of the key features of WarkText is its cross-platform compatibility. It's designed to work on multiple platforms, including Linux, macOS, and Windows. This ensures that users can use the application on their preferred operating system.
-
+One of the key features of WarkText is its cross-platform compatibility. It's designed to work on multiple platforms, ensuring that users can use the application on their preferred operating system.
 
 ## Intentions 
 
