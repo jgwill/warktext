@@ -1,6 +1,6 @@
 {
   "name": "warktext",
-  "version": "0.17.1",
+  "version": "0.17.2",
   "homepage": "https://github.com/jgwill/warktext/",
   "description": "Next generation markdown editor",
   "license": "MIT",
@@ -202,7 +202,8 @@
       "name": "Felix Häusler",
       "email": "hfelix@protonmail.ch",
       "url": "https://github.com/fxha"
-    }, {
+    },
+    {
       "name": "Jean-Guillaume D.Isabelle (fork)",
       "email": "jgwill@gmail.com",
       "url": "https://github.com/jgwill"
