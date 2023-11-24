@@ -2,7 +2,17 @@
 
 ## Intentions 
 
-* Simply have an App I can customize and distribute that is simple and based on Markdown, multiple platform
+The primary intentions behind this application are:
+
+* **Simplicity**: The application is designed to be straightforward and easy to use. It avoids unnecessary complexity, making it accessible to users of all levels of technical proficiency.
+
+* **Customizability**: Users can tailor the application to their specific needs. This includes the ability to modify the application's appearance, behavior, and functionality.
+
+* **Distribution**: The application is built with distribution in mind. It can be easily shared and used by others, making it an ideal solution for teams and communities.
+
+* **Markdown-Based**: The application uses Markdown, a lightweight and easy-to-use markup language. Markdown allows users to format text in a readable and easy-to-write manner. This makes the application suitable for a wide range of tasks, from note-taking to writing documentation.
+
+* **Cross-Platform Compatibility**: The application is designed to work on multiple platforms. This ensures that users can use the application on their preferred operating system, whether it's Windows, macOS, Linux, or others.
 
 
 
