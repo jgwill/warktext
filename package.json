@@ -1,7 +1,7 @@
 {
-  "name": "marktext",
+  "name": "warktext",
   "version": "0.17.1",
-  "homepage": "https://github.com/marktext/marktext/",
+  "homepage": "https://github.com/jgwill/warktext/",
   "description": "Next generation markdown editor",
   "license": "MIT",
   "main": "./dist/electron/main.js",
@@ -182,10 +182,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:marktext/marktext.git"
+    "url": "git@github.com:jgwill/warktext.git"
   },
   "bugs": {
-    "url": "https://github.com/marktext/marktext/issues"
+    "url": "https://github.com/jgwill/warktext/issues"
   },
   "author": {
     "name": "Jocs",
@@ -202,6 +202,10 @@
       "name": "Felix Häusler",
       "email": "hfelix@protonmail.ch",
       "url": "https://github.com/fxha"
+    }, {
+      "name": "Jean-Guillaume D.Isabelle (fork)",
+      "email": "jgwill@gmail.com",
+      "url": "https://github.com/jgwill"
     }
   ]
 }
