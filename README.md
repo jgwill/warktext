@@ -1,3 +1,17 @@
+# WarkText
+
+## Intentions 
+
+* Simply have an App I can customize and distribute that is simple and based on Markdown, multiple platform
+
+
+
+
+
+----
+Original README
+----
+
 <p align="center"><img src="static/logo-small.png" alt="MarkText" width="100" height="100"></p>
 
 <h1 align="center">MarkText</h1>
